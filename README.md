@@ -26,7 +26,7 @@ You can also join our [Discord](https://discord.com/invite/FJVbVgT9uS) to talk t
 * HUD opacity config
 * LE style tooltips
 * LE GUI blocks Lighting
-* Paper Doll (The small player in the corner)
+* Animated Character (The small player in the corner)
 * Superflat in-GUI customizer
 * The GUI
 * Tutorial World
